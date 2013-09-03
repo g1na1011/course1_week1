@@ -61,7 +61,7 @@ puts "---"
 # 14) Can hash values be arrays? Can you have an array of hashes? (give examples)
 # Yes.
 h1 = { a: [1, 2, 3], b: "hi there", c: 4 }
-a1 = [ {a: 1, b: 2}, {c: 5}, {} ]
+a1 = [{a: 1, b: 2}, {c: 5}, {}]
 
 # 15) Look at several Rails/Ruby online API sources and say which one your like best and why.
 # For Ruby, ruby-doc.org is my ultimate dictionary. 
